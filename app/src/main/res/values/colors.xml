@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="turquoise">#54BAB9</color>
+    <color name="black">#323232</color>
+    <color name="dark_blue">#313552</color>
+    <color name="navy_blue">#082032</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#7C99AC</color>
+</resources>
